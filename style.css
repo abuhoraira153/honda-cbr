@@ -28,7 +28,6 @@
 }
 .my-gray-scale:hover{
     filter: grayscale(0);
-    transition: 2s;
 }
 .user-card-image{
     width: 9.5rem;
@@ -44,6 +43,11 @@
     width: 26.5rem;
     height: 25rem;
 }
-.pagination-width{
-    width: 50rem;
+.accordion-ques-style{
+    font-size: 1.25rem;
+    color: #383838;
+}
+.accordion-ans-style{
+    font-size: 1rem;
+    color:#7E848C;
 }
