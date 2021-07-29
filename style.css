@@ -1,0 +1,46 @@
+.header-bg{
+    background-color: #264653;
+}
+.heading-text{
+    color:  #E0E0E0;
+    font-size: 1rem;
+}
+.heading-font-size{
+    font-size: 3rem;
+}
+.heading-btn{
+    background: #E76F51;
+    border-radius: 5px;
+}
+.heading-bike{
+    width: 34.5rem;
+    height: 28rem;
+}
+.feature-bike{
+    width: 18rem;
+    height: 15rem;
+}
+.heading-color{
+    color: #E76F51;
+}
+.my-gray-scale{
+    filter: grayscale(100%);
+}
+.my-gray-scale:hover{
+    filter: grayscale(0);
+    transition: 2s;
+}
+.user-card-image{
+    width: 9.5rem;
+    height: 9.5rem;
+}
+.fas.filled{
+    color: #E77C40;
+}
+.far.empty{
+    color: #E77C40;
+}
+.faq-image{
+    width: 26.5rem;
+    height: 25rem;
+}
